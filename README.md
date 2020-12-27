@@ -10,7 +10,7 @@
 <li>Unity</li>
 <li>Android Studio</li>
 <li>Adobe XD</li>
-
+<li>Slack</li>
 <h3>기능: 커뮤니티, 방명록, 로그인, 회원가입, 비밀번호 찾기, ToDoList, 자취생 키우기 화면</h3>
 
 
