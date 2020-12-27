@@ -6,7 +6,8 @@
 <li>Java</li>
 <li>C#</li>
 
-<ul>사용도구</ul>
+<ul>Tool</ul>
+
 <li>Unity</li>
 <li>Android Studio</li>
 <li>Adobe XD</li>
