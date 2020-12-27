@@ -7,7 +7,6 @@
 <li>C#</li>
 <br>
 <ul>Tool</ul>
-<br>
 <li>Unity</li>
 <li>Android Studio</li>
 <li>Adobe XD</li>
